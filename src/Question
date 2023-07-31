@@ -1,0 +1,186 @@
+1) pattern 1  
+    *
+   --
+  ***
+ ----
+*****
+ ----
+  ***
+   --
+    *
+2)pattern2
+    *
+   *-*
+  *---*
+ *-----*
+*-------*
+
+3)pattern3
+*-------*
+ *-----*
+  *---*
+   *-*
+    *
+4)pattern4
+    *
+   ---
+  *****
+ -------
+*********
+ -------
+  *****
+   ---
+    *
+5)pattern5
+//pascals triange
+      1
+     1 1
+    1 2 1
+   1 3 3 1
+  1 4 6 4 1
+6)pattern6
+//Floyd’s Triangle
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+11 12 13 14 15 
+7)pattern7
+*   *
+ * * 
+  *  
+ * * 
+*   *
+8)pattern8
+    *
+   * *
+  *   *
+ *     *
+*       *
+*       *
+ *     *
+  *   *
+   * *
+    *
+9)pattern9
+*        *
+**      **
+***    ***
+****  ****
+**********
+****  ****
+***    ***
+**      **
+*        *
+10)pattern10
+**********
+****  ****
+***    ***
+**      **
+*        *
+*        *
+**      **
+***    ***
+****  ****
+**********
+11)pattern11
+1
+212
+32123
+4321234
+32123
+212
+1
+12)pattern12
+//JAVA
+J
+AA
+VVV
+AAAA
+13)pattern13
+1
+10
+101
+1010
+10101
+14)pattern14
+10101
+01010
+10101
+01010
+10101
+15)pattern15
+1*
+4*5*6*
+2*3*
+7*8*9*10*
+16)pattern16
+ ***    ***
+*****  *****
+ ***********
+  *********
+   *******
+    *****
+     ***
+      *
+17)pattern17
+ABCDEFGHI
+ ABCDEFG
+  ABCDE
+   ABC
+    A
+18)pattern18
+    A
+   B C
+  D   E
+ F     G
+HIJKLMNOP
+19)pattern19
+EEEEE
+EDDDD
+EDCCC
+EDCBB
+EDCBA
+20)pattern20
+A J K T U 
+B I L S V 
+C H M R W 
+D G N Q X 
+E F O P Y 
+21)pattern21
+A 
+B I 
+C H J 
+D G K N 
+E F L M O 
+22)pattern22
+J 
+H I 
+E F G 
+A B C D
+23)pattern23
+ABCDEFFEDCBA
+ABCDE EDCBA
+ABCD   DCBA
+ABC     CBA
+AB       BA
+A         A
+24)pattern24
+ABCDEFFEDCBA
+ABCDE EDCBA
+ABCD   DCBA
+ABC     CBA
+AB       BA
+A         A
+AB       BA
+ABC     CBA
+ABCD   DCBA
+ABCDE EDCBA
+ABCDEFFEDCBA
+25)pattern25
+     F 
+    E F 
+   D E F 
+  C D E F 
+ B C D E F 
+A B C D E F 
